@@ -645,6 +645,10 @@ aside .form {
   flex-basis: 50%;
 }
 
+.tablet-second-column {
+  margin-top: 10px;
+}
+
 .features .features-item-description {
   width: 50%;
 } 
@@ -832,6 +836,10 @@ aside .content-wrapper .form {
   flex-basis: 33%;
 }
 
+.desktop-second-column {
+  margin-top: 20px;
+}
+
 /* Reviews */
 .reviews h2 {
   padding-bottom: 50px; 
@@ -852,6 +860,10 @@ aside .content-wrapper .form {
    
    .map figure {
     padding-bottom: 37.5%;
+  }
+
+  .contact-content {
+    width: 80%;
   }
 
   /* ==========================================================================
